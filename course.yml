@@ -3,7 +3,5 @@ description      : This is an automatically generated demo course which will hel
 university       : DataCamp
 difficulty_level : 2
 time_needed      : 1 hour
-instructors:
- - vincent@datacamp.com
-collaborators:
- - v.vankrunkelsven@gmail.com
+author_field: Vincent
+author_bio: testing
