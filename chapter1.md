@@ -13,7 +13,6 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 - Adventure
 - Action
 - Animation
-- Comedy
 - Horror
 
 *** =hint
