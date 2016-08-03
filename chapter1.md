@@ -89,7 +89,7 @@ rm(Movies)
 
 # Check out the structure of movie_selection
 str(movie_selection)
-
+a
 # Select movies that have a rating of 5 or higher: good_movies
 good_movies <- movie_selection[movie_selection$Rating >= 5, ]
 
